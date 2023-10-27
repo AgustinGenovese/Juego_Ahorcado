@@ -1,0 +1,49 @@
+{
+    "Programacion": [
+        "Algoritmo",
+        "Variable",
+        "Ciclo",
+        "Funcion",
+        "Clase"
+    ],
+    "Historia": [
+        "Antiguedad",
+        "Renacimiento",
+        "Colonizacion",
+        "Imperio",
+        "Revolucion",
+        "Guerra",
+        "Independencia",
+        "Reforma",
+        "Cultura",
+        "Exploracion"
+    ],
+    "Matematica": [
+        "Algebra",
+        "Geometria",
+        "Calculo",
+        "Estadistica",
+        "Trigonometria",
+        "Derivada",
+        "Integracion",
+        "Fraccion",
+        "Teorema",
+        "Probabilidad"
+    ],
+    "Futbol": [
+        "Balon",
+        "Gol",
+        "Arquero",
+        "Delantero",
+        "Centrocampista",
+        "Defensa",
+        "Portero",
+        "Liga",
+        "Copa",
+        "Arbitro",
+        "Tactica",
+        "Remate",
+        "Penalti",
+        "Campeonato"
+    ]
+}
