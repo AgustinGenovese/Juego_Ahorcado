@@ -1,8 +1,14 @@
 # Juego_Ahorcado
 
 Nombre: Agustin
+
+
 Apellido: Genovese
+
+
 Comision: 1B
+
+
 Legajo: 115423
 
 
